@@ -40,7 +40,8 @@ This system helps individuals track key habits like supplements, sleep, energy, 
 
 ## 📸 Screenshots / Flowchart (Coming Soon)
 
-Planning to upload a diagram of the system flow and a sample output summary.
+![System Flow Diagram](GPT%20Powered%20Personal%20Performance%20Tracker.png)
+
 
 ---
 
